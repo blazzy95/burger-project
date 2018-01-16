@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-
 import Auxi from '../../../hoc/Auxi';
 import Button from '../../UI/Button/Button';
 
